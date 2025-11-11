@@ -1,0 +1,7 @@
+[
+  {
+    "name": "magic-button",
+    "type": "components:ui",
+    "files": ["registry/ui/magic-button.json"]
+  }
+]
